@@ -39,8 +39,7 @@ Je transforme des données en indicateurs métiers, dashboards et visualisations
 
 ## 📬 Contact & Liens
 
-- ✉️ Email : phafeezah3@gmail.com  
-- 💼 LinkedIn : (ton lien LinkedIn)  
+- ✉️ Email : phafeezah3@gmail.com    
 - 🔗 GitHub Portfolio : https://github.com/HFZ03/Portfolio-Data-Hafeez  
 
 > 📌 *Toutes les données sont fictives / simulées. Projets réalisés à titre personnel pour démontrer mes compétences en BI & Data.*
