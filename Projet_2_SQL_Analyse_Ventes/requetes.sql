@@ -1,0 +1,1 @@
+SELECT SUM(quantite * prix_unitaire) AS chiffre_affaire FROM ventes;
