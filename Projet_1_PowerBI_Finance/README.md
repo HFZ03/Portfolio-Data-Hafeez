@@ -1,30 +1,50 @@
-# Projet 1 — Dashboard Power BI : Analyse Financière
+# 📊 Projet 1 — Dashboard Power BI : Analyse des Paiements & Crédits
 
-## 🎯 Objectif
-- Construire un dashboard Power BI pour analyser paiements et crédits  
-- Mettre en place des KPI pour suivre les performances financières  
+## 🎯 Contexte & Objectif
+Ce projet consiste à concevoir un **dashboard Power BI** permettant d’analyser des
+transactions financières (paiements et crédits) afin de **suivre les performances
+financières**, identifier les **tendances par pays et segment client**, et repérer les
+clients à forte valeur ou à risque.
 
-## 📊 Dataset
-- Fichier : `dataset_transactions.csv`  
-- Colonnes : transaction_id, client_id, date, montant, type_transaction, statut, pays  
+---
 
-## 🧮 KPI suggérés
+## 📁 Données
+- Source : dataset fictif (projet portfolio)
+- Format : Excel
+- Fichier : `dataset_transactions_finance.xlsx`
+- Contenu : transactions financières avec informations client, pays, type de transaction et statut
+
+---
+
+## 🧮 KPI suivis
 - Montant total des transactions  
-- Montant total par type (paiement / crédit)  
-- Taux de rejet = transactions refusées / total  
-- Top 5 clients par montant  
+- Montant total des paiements  
+- Montant total des crédits  
+- Taux de refus  
+- Montant moyen par transaction  
 - Transactions à risque (> 1000 €)
 
-## 🖼️ Visualisations
-- Bar chart : transactions par pays  
-- Line chart : évolution quotidienne des montants  
-- KPI cards : montant total, taux de rejet  
-- Tableau détaillé par client
+---
 
-## 📌 Résultat attendu
-Dashboard interactif, prêt à être partagé ou utilisé pour le reporting métier
+## 📊 Analyses & Visualisations
+- KPI cards (vue exécutive)
+- Montant total par type de transaction (paiement / crédit)
+- Répartition du montant par pays
+- Analyse client :
+  - Montant total par client
+  - Nombre de transactions par client
+  - Top clients par montant
+- Filtres interactifs : pays, segment client
 
-## 🚀 Finalisation du Dashboard
+---
 
-<img width="2011" height="1142" alt="image" src="https://github.com/user-attachments/assets/84918e36-8712-44d5-bf2d-79cc66764418" />
+## 🖼️ Aperçu du dashboard
+<img width="2011" height="1142" alt="Dashboard Power BI" src="https://github.com/user-attachments/assets/84918e36-8712-44d5-bf2d-79cc66764418" />
 
+---
+
+## 📌 Conclusion
+Ce projet démontre ma capacité à :
+- modéliser et analyser des données financières
+- définir des KPI métier pertinents
+- construire un dashboard Power BI clair, interactif et orienté décision
