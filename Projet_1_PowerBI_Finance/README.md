@@ -23,3 +23,8 @@
 
 ## 📌 Résultat attendu
 Dashboard interactif, prêt à être partagé ou utilisé pour le reporting métier
+
+## 🚀 Finalisation du Dashboard
+
+<img width="2011" height="1142" alt="image" src="https://github.com/user-attachments/assets/84918e36-8712-44d5-bf2d-79cc66764418" />
+
